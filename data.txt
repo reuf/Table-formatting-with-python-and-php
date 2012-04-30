@@ -1,0 +1,4 @@
+a b c       d
+a f   d
+a t g  
+  y i o
