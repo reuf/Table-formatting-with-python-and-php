@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 a b c       d
 a f   d
 a t g  
   y i o
+=======
+a b c d
+a f   d
+a t ga  
+  y i o
+>>>>>>> eaa8bd3b61ddc5b7bc88458e5d45fbc388ff7100
